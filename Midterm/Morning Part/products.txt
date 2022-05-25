@@ -1,0 +1,21 @@
+#product_id, description, price
+101, Drinking Water, 9
+102, Oishi Green Tea, 16
+103, Bai Dui Herbal Drink, 5
+104, Coke Zero, 15
+105, Vitasoy Soy Milk, 10.50
+106, Hot Coffee, 25
+107, Ice Coffee, 30
+108, Cafe Latte, 30
+109, Espresso, 30
+110, Red Apple, 10
+111, Banana, 8
+112, Banana Cake, 30
+113, Peanuts (42g), 10
+114, Instant Ramen, 15
+115, Croissant, 12
+116, Cheese Sandwich, 20
+117, Veggie Sandwich, 20
+118, Fried Rice, 20
+119, Omelet with Rice, 25
+120, Pad Thai, 25

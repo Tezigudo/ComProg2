@@ -1,7 +1,7 @@
 import tkinter as tk
 
 class TrafficLight:
-    
+
     def __init__(self, canvas: tk.Canvas) -> None:
         self.canvas = canvas
         self.COLOR_LST = ["red", "yellow", "green"]
